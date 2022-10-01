@@ -2,7 +2,8 @@
 - 👀 I’m interested in full stack web development and competitive coding
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on chatbot,car sharing website or any other cool websites and competitive coding
-- 📫 ping me email-srimannarayanvishnu@gmail.com or ashwanikumarjha20bcs29@iiitkottayam.ac.in
+- 📫 ping me email-ashwanikumarjha20bcs29@iiitkottayam.ac.in or srimannarayanvishnu@gmail.com 
+
 - 
 
 my codeforces account-https://codeforces.com/profile/shreepatiha
