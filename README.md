@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashwanijha8068
 - 👀 I’m interested in full stack web development and competitive coding
  
-- 📫 ping me email-ashwanikumarjha20bcs29@iiitkottayam.ac.in or srimannarayanvishnu@gmail.com 
+- 📫 ping me email-ashwanikumarjha20bcs29@iiitkottayam.ac.in or ashwanijhagena@gmail.com
 
 - 
 
